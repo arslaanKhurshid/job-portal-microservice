@@ -212,7 +212,7 @@ mvn spring-boot:run
 
 - Add authentication using JWT for secure login.
 
-# Feel free to reach out or feedback:
+# Feel free to reach out :
 
 - ### Email: arslaankhurshiedsmt231@gmail.com
 - ### GitHub: arslaanKhurshid
