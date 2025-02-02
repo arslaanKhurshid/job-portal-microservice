@@ -208,7 +208,7 @@ mvn spring-boot:run
 
 ---
 
-## Future Enhancements
+# Future Enhancements
 
 - Add authentication using JWT for secure login.
 
